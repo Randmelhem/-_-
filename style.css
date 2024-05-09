@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(141, 153, 185);
+    font-family: "El Messiri", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  
+  #br {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    text-align: right;
+  }
+  
+  #in {
+    float: right;
+  }
+  
+  #be {
+    float: right;
+  }
+  
+  #do {
+    float: right;
+  }
+  
+  #no {
+    float: right;
+  }
+
+  #la {
+    float: right;
+  }
+  #br a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  #in a {
+    background-color: rgb(27, 38, 50);
+  }
+  
+  #be a {
+    background-color: rgb(27, 38, 50);
+  }
+  
+  #do a {
+    background-color: rgb(27, 38, 50);
+  }
+  
+  #no a {
+    background-color: rgb(27, 38, 50);
+  }
+
+  #la a {
+    background-color: rgb(27, 38, 50);
+  }
+  #test{
+    height: 100px;
+    width: 600px;
+    text-align: center;
+    background-color: #000000;
+    color: rgb(200, 255, 0);
+  }
